@@ -44,3 +44,8 @@ premake5.exe
 !/irrlicht/premake5.lua
 !/irrlicht/defines.lua
 bundled_font.cpp
+
+zig-cache/
+zig-out/
+
+lua-5.3.6/

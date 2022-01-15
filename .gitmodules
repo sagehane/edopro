@@ -1,3 +1,9 @@
 [submodule "ocgcore"]
 	path = ocgcore
 	url = https://github.com/edo9300/ygopro-core.git
+[submodule "irrlicht1-8-4"]
+	path = irrlicht1-8-4
+	url = https://github.com/edo9300/irrlicht1-8-4.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt
